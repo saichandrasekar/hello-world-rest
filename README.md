@@ -31,7 +31,7 @@ $ mvn clean install
 2. Build Docker Image
 
 ```
-$ docker build .
+$ docker build -t hello-world-ms .
 ```
 
 ### Deploy REST API
