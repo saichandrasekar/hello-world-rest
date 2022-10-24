@@ -1,4 +1,4 @@
-# Hello World REST (hello-world-rest v1.0.0)
+# Hello World REST (hello-world-ms v1.0.0)
 
 ## Tech Stack
 - Java 17
@@ -11,6 +11,14 @@
 - Java JDK 17
 - Apache Maven
 - Docker
+
+### Source Code
+
+- hello-world-mas
+  - src/main/java
+    - com/example/helloworld -> Spring Boot Application Configuration Classes
+    - com/example/helloworld/controller -> All REST API Controllers are placed here
+
 
 ### Installation Steps
 
